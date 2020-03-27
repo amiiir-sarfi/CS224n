@@ -1,1 +1,1 @@
-The "data" floder was removed
+The "data" and "results" floders were removed
